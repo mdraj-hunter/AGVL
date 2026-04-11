@@ -1,0 +1,1 @@
+"""Optional HTTP API (FastAPI)."""
