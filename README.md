@@ -1,4 +1,4 @@
-## Empi## Empirical Validation
+## Empirical Validation
 
 This framework's hallucination-reduction claims have been empirically tested on a local, CPU-only setup against a 150-sample HaluEval benchmark. See results, methodology, and honest negative findings here: **[AGVL-empirical-validation](https://github.com/mdraj-hunter/AGVL-empirical-validation)**
 
